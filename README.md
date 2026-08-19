@@ -1,41 +1,60 @@
 <div align="center">
-Hey, I’m Burak.
 
-Computer Programming Student · Software Development · AI · Product Building
+# Hey, I'm Burak.
 
-Building useful software around real-world problems.
+### Computer Programming Student · Software Development · AI · Product Building
+
+*Building useful software around real-world problems.*
+
 </div>
 
-About Me
+---
 
-I’m a Computer Programming student building a strong foundation in software development, artificial intelligence, and product engineering.
+## 👨‍💻 About Me
 
-My long-term goal is to become a technical entrepreneur — not simply by learning technologies, but by understanding real problems and turning them into useful software products.
+I'm a **Computer Programming student** focused on building a strong foundation in software development, artificial intelligence, and product development.
 
-I’m particularly interested in:
+My long-term goal is to become a **technical entrepreneur** — someone who can identify real problems, build useful technology around them, and turn those solutions into products.
 
-Software Development · Artificial Intelligence · Computer Vision · SaaS · Product Development
+Rather than learning technologies just for the sake of knowing them, I want to understand **how and where they create real value**.
 
-────────
+`Software Development` · `Artificial Intelligence` · `Computer Vision` · `SaaS` · `Product Development`
 
-What I’m Building
+---
 
-I’m currently working on software concepts for the hairdressing and barbering industry, a field I’ve had direct exposure to for years.
+## 🚀 What I'm Building
 
-My current focus is building practical tools around real professional workflows, starting with hair color formula management and gradually exploring how AI and computer vision can improve salon software.
+I'm currently exploring software solutions for the **hairdressing and barbering industry**, a field I've had direct exposure to for years.
+
+My first focus is building a **hair color formula management system** designed around real professional workflows.
+
+Over time, I also want to explore how **artificial intelligence and computer vision** can improve the way salons manage their operations and help professionals deliver better customer experiences.
 
 > **Problem first. Technology second.**
 
-────────
+---
 
-Current Focus
+## 🎯 Current Focus
 
-• Strengthening my programming and software engineering fundamentals
-• Building and shipping real projects
-• Learning databases, APIs, cloud systems, and software architecture
-• Developing practical AI and computer vision skills
-• Improving my product, business, and problem-solving thinking
+- Building strong programming and software engineering fundamentals
+- Developing and shipping real-world projects
+- Learning databases, APIs, Git, cloud systems, and software architecture
+- Building practical AI and computer vision skills
+- Improving my product thinking and problem-solving ability
+- Learning how technology products become sustainable businesses
+
+---
+
+## 📈 Direction
+
+I'm still early in my journey, so my priority is simple:
+
+**Learn deeply → Build consistently → Ship real products → Improve from real feedback**
+
+---
+
 <div align="center">
 
-Learn deeply. Build deliberately. Solve real problems.
+### Learn deeply. Build deliberately. Solve real problems.
+
 </div>
