@@ -1,63 +1,41 @@
 <div align="center">
+Hey, I’m Burak.
 
-# Hey, I'm Burak.
+Computer Programming Student · Software Development · AI · Product Building
 
-**Computer Programming Student · AI Product Builder · Aspiring Technical Entrepreneur**
-
-*Building useful software around real-world problems.*
-
+Building useful software around real-world problems.
 </div>
 
----
+About Me
 
-## About Me
+I’m a Computer Programming student building a strong foundation in software development, artificial intelligence, and product engineering.
 
-I'm a Computer Programming student focused on becoming a **strong software builder and technical entrepreneur**.
+My long-term goal is to become a technical entrepreneur — not simply by learning technologies, but by understanding real problems and turning them into useful software products.
 
-I don't learn technologies simply to add them to a list. I want to understand software deeply enough to **identify real problems, design useful solutions, and turn ideas into working products**.
+I’m particularly interested in:
 
-My main interests are:
+Software Development · Artificial Intelligence · Computer Vision · SaaS · Product Development
 
-`Software Development` · `Artificial Intelligence` · `Computer Vision` · `SaaS` · `Product Development`
+────────
 
----
+What I’m Building
 
-## What I'm Building
+I’m currently working on software concepts for the hairdressing and barbering industry, a field I’ve had direct exposure to for years.
 
-I'm currently exploring an **AI-powered software platform for the hairdressing and barbering industry**.
-
-The goal is to combine:
-
-**Customer Data · Treatment History · Hair Dye Formulas · Computer Vision · AI-Assisted Analysis · Visualization**
-
-into a practical product designed around real professional workflows.
-
-The project is currently in the **research and prototyping stage**.
-
----
-
-## Current Focus
-
-* Strengthening my software engineering fundamentals
-* Building real projects and prototypes
-* Learning AI and computer vision beyond API usage
-* Understanding databases, APIs, cloud systems, and SaaS architecture
-* Developing stronger product and business thinking
-
----
-
-## How I Think
-
-I believe good products start with the problem — not the technology.
-
-**Problem → Understand → Design → Build → Test → Improve**
+My current focus is building practical tools around real professional workflows, starting with hair color formula management and gradually exploring how AI and computer vision can improve salon software.
 
 > **Problem first. Technology second.**
 
----
+────────
 
+Current Focus
+
+• Strengthening my programming and software engineering fundamentals
+• Building and shipping real projects
+• Learning databases, APIs, cloud systems, and software architecture
+• Developing practical AI and computer vision skills
+• Improving my product, business, and problem-solving thinking
 <div align="center">
 
-### Learn deeply. Build deliberately. Solve real problems.
-
+Learn deeply. Build deliberately. Solve real problems.
 </div>
